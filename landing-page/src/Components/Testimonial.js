@@ -16,8 +16,9 @@ const Testimonial = () => {
       <div className="testimonial-section-bottom">
         <img src={ProfilePic} alt="" />
         <p>
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        "I can't express enough how pleased I am with the service I received. From the moment I made my reservation online to the final drop-off, everything was seamless and stress-free.
+
+The vehicle I rented was in impeccable condition, clean, and ready to go when I arrived at the rental location. 
         </p>
         <div className="testimonials-stars-container">
           <AiFillStar />

@@ -14,11 +14,10 @@ const Home = () => {
         </div>
         <div className="home-text-section">
           <h1 className="primary-heading">
-            Your Favourite Food Delivered Hot & Fresh
+            Traveling with Ease, Courtesy of Our Rentals
           </h1>
           <p className="primary-text">
-            Healthy switcher chefs do all the prep work, like peeding, chopping
-            & marinating, so you can cook a fresh food.
+          Welcome to our premier car rental service, where every journey is designed to be a seamless adventure. With a commitment to excellence and a fleet of quality vehicles.
           </p>
           <button className="secondary-button">
             Order Now <FiArrowRight />{" "}

@@ -1,7 +1,10 @@
 # Codsoft Internship Repository
 
-Welcome to my Codsoft internship repository! Here, you will find information about the three projects I have worked on during my internship at Codsoft.
+Candidate: L Harshith <harshith.lax@gmail.com>
 
+Welcome to my Codsoft internship repository!
+
+## Level 1
 ## Project 1: Portfolio
 
 ### Technologies Used:
